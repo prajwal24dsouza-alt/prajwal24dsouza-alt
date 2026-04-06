@@ -14,4 +14,20 @@ I am an Electronics and Communication Engineering (ECE) student with a strong pa
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal24dsouza-alt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+## 🛠️ Tech Stack
+
+**Languages:**  
+Python, C, C++, Verilog  
+
+**AI/ML:**  
+TensorFlow, Keras, Scikit-learn, OpenCV, Hugging Face  
+
+**Tools & Platforms:**  
+GitHub, GCP, Jupyter Notebook, VS Code  
+
+**Hardware & Simulation:**  
+MATLAB, Xilinx Vivado, Keil µVision  
+
+**Other:**  
+Streamlit, Anaconda  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
